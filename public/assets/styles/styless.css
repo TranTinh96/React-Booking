@@ -1,0 +1,93 @@
+.footer-header{
+  background-color: #21d192;
+}
+.footer-color{
+  color: white;
+}
+.footer-content{
+  background-color: #BBF3E5;
+  margin-left: 0 !important;
+  margin-right: o !important;
+}
+.footer-footer{
+  background-color: #059C75;
+}
+.header-menu{
+  position: fixed !important;
+  margin: 0;
+  padding: 0;
+}
+.footer{
+  bottom: 0 !important;
+}
+.tab-right {
+  position: fixed;
+  top: 300px;
+  right: 0;
+  z-index: 20000;
+  background: rgb(255, 255, 255);
+  -webkit-border-radius: 4px 0 0 4px;
+  border-radius: 5px 0 0 5px;
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+.modal-header-t{
+  background-color: #D0FFF4;
+  color:rgb(0, 0, 0);
+  font-size: 14px;
+}
+.modal-body-t{
+  width: 400px;
+}
+/*-----------------------------------------------SmartPhone------------------------------*/
+.smartphone-min{
+  min-width: 700px;
+}
+.smart-color{
+  background-color: white !important;
+}
+.smart-c{
+  color: black !important;
+}
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+   height: 4rem;
+  overflow-y: hidden;
+}
+.nav-scroller nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+.nav-scroller nav a{
+  text-decoration: none;
+}
+.nav-scroller nav a{
+  text-decoration: none;
+}
+.p-d{
+  padding: 10px;
+}
+
+.active{
+  background-color: rgb(210, 238, 224);
+}
+.justify-content-between {
+  -ms-flex-pack: justify!important;
+  justify-content: space-between!important;
+}
+.nav-color{
+  color: blue !important;
+}
+.btn-w{
+  width: 60px;
+}
+.card-color{
+ background-color: #F0FCF0  !important;
+}

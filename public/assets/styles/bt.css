@@ -1,0 +1,16 @@
+.div-note{
+     background-color: #EAFFFD;
+     border: 1px solid #C9F0FF;
+     border-radius:5px;
+     padding: 5px;
+     margin-top: 10px;
+     width: 500px;
+}
+
+.div-list{
+    margin-top: 30px; 
+    background-color: #DFF2F0;
+    padding: 10px;
+    width: 520px;
+    border-radius: 5px;
+}
